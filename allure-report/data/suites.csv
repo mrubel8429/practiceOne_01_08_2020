@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","test.test_login.TestLogin#test_loginpage","3519",""
+"passed","test.test_login.TestLogin#test_logout","335",""

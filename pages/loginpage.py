@@ -1,4 +1,10 @@
-class LoinPage():
+import utils.customlogger as cl
+import logging
+
+
+class LoginPage():
+    log = cl.customLogger(logging.DEBUG)
+
     def __init__(self, driver):
         self.driver = driver
 
@@ -8,3 +14,4 @@ class LoinPage():
 
     def enterUserName(self, username):
         self.driver.find_element_by_id(self.username_txt_id).send_keys(username)
+        self.log.info("enter user name success fully ")

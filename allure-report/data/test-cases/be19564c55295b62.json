@@ -1,0 +1,70 @@
+{
+  "uid" : "be19564c55295b62",
+  "name" : "test_logout",
+  "fullName" : "test.test_login.TestLogin#test_logout",
+  "historyId" : "e86907ba2c8d55128155c0caf669f39b",
+  "time" : {
+    "start" : 1578756449329,
+    "stop" : 1578756449664,
+    "duration" : 335
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "test_setup",
+    "time" : {
+      "start" : 1578756437869,
+      "stop" : 1578756445740,
+      "duration" : 7871
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "mds-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "9038-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be19564c55295b62.json",
+  "parameterValues" : [ ]
+}

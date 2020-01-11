@@ -1,0 +1,21 @@
+[ {
+  "uid" : "be19564c55295b62",
+  "name" : "test_logout",
+  "time" : {
+    "start" : 1578756449329,
+    "stop" : 1578756449664,
+    "duration" : 335
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2873691b84d0f64",
+  "name" : "test_loginpage",
+  "time" : {
+    "start" : 1578756445805,
+    "stop" : 1578756449324,
+    "duration" : 3519
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

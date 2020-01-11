@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:8085/",
+  "buildOrder" : 2,
+  "buildName" : "selenum_pytest_v1 #2",
+  "buildUrl" : "http://localhost:8085/job/selenum_pytest_v1/2/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:8085/job/selenum_pytest_v1/2/allure"
+} ]

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b891964-5d2d-41c5-bcfc-d7c3924d0382" name="Default Changelist" comment="" />
+    <list default="true" id="0b891964-5d2d-41c5-bcfc-d7c3924d0382" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/loginpage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_login.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W8U2ttLawG0KgUJY9qpv8Ak8H5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ServiceViewManager">
@@ -50,9 +61,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="149" y="23" width="982" height="701" key="SettingsEditor" timestamp="1578530659755">
+    <state x="240" y="39" key="#Log_Highlighting_(ideolog)" timestamp="1578750276176">
       <screen x="0" y="23" width="1280" height="701" />
     </state>
-    <state x="149" y="23" width="982" height="701" key="SettingsEditor/0.23.1280.701@0.23.1280.701" timestamp="1578530659755" />
+    <state x="240" y="39" key="#Log_Highlighting_(ideolog)/0.23.1280.701@0.23.1280.701" timestamp="1578750276176" />
+    <state x="149" y="23" width="982" height="701" key="SettingsEditor" timestamp="1578616394134">
+      <screen x="0" y="23" width="1280" height="701" />
+    </state>
+    <state x="149" y="23" width="982" height="701" key="SettingsEditor/0.23.1280.701@0.23.1280.701" timestamp="1578616394134" />
+    <state x="319" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1578750246740">
+      <screen x="0" y="23" width="1280" height="701" />
+    </state>
+    <state x="319" y="206" key="com.intellij.ide.util.TipDialog/0.23.1280.701@0.23.1280.701" timestamp="1578750246740" />
   </component>
 </project>
